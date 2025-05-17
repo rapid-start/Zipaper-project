@@ -1,0 +1,11 @@
+.app-view {
+    text-align: center;
+
+    &>h1 {
+        background-image: url("../../assets/logo.png");
+        padding-top: 100px;
+        background-size: auto 100px;
+        background-position: center top;
+        background-repeat: no-repeat;
+    }
+}
